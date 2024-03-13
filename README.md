@@ -1,2 +1,2 @@
-# to-do-app
- A to do app made in react js
+# To-do-app
+ To do app made in react js
